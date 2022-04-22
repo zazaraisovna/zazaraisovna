@@ -6,7 +6,6 @@ I work at an indie-studio [Khamitovs Team](https://github.com/KhamitovsTeam). My
 ### Talks
 - Gamedev podcast host [**Khamitovs Cast**](https://podcast.khamitovs.team/) (ru)
 - Guest on podcast [**KDI Cast**](https://youtu.be/hBHWjgHkn0w) (ru)
-### 📧 How to reach me: azaliyaraisovna@gmail.com
 
 <!--
 **zazaraisovna/zazaraisovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
