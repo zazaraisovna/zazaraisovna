@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+I work at an indie-studio [Khamitovs Team](https://github.com/KhamitovsTeam). My focus area for the past few years has been game development with the FNA Framework, but I'm also skilled in Unity 3D with C#.
+
+### I’m currently working on [CHIP: Rescuer of Kittens](https://store.steampowered.com/app/1029830/CHIP_Rescuer_of_Kittens/)
+### Portfolio: https://zazaraisovna.ru/games
+### Talks
+- Gamedev podcast host [**Khamitovs Cast**](https://podcast.khamitovs.team/) (ru)
+- Guest on podcast [**KDI Cast**](https://youtu.be/hBHWjgHkn0w) (ru)
+### 📧 How to reach me: azaliyaraisovna@gmail.com
 
 <!--
 **zazaraisovna/zazaraisovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
