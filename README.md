@@ -6,9 +6,9 @@ I’m **currently working** on [CHIP: Rescuer of Kittens](https://store.steampow
 **Portfolio:** https://zazaraisovna.ru/games
 
 **Talks:**
+- Lecture about [**Graph database**](https://www.youtube.com/watch?v=pVIXAJE4v3g) (ru)
 - Gamedev podcast host [**Khamitovs Cast**](https://podcast.khamitovs.team/) (ru)
 - Guest on podcast [**KDI Cast**](https://youtu.be/hBHWjgHkn0w) (ru)
-- Lecture about [**Graph database**](https://www.youtube.com/watch?v=pVIXAJE4v3g) (ru)
 
 <!--
 **zazaraisovna/zazaraisovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
