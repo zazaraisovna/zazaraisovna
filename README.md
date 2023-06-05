@@ -6,6 +6,7 @@ I’m **currently working** on [CHIP: Rescuer of Kittens](https://store.steampow
 **Portfolio:** https://zazaraisovna.ru/games
 
 **Talks:**
+- Lecture about [**Physics in games**](https://youtu.be/voR7CY-YoSs) (ru)
 - Lecture about [**Game Mechanics**](https://youtu.be/EQKcC4enB7A) (ru)
 - Lecture about [**Graph database**](https://www.youtube.com/watch?v=pVIXAJE4v3g) (ru)
 - Gamedev podcast host [**Khamitovs Cast**](https://podcast.khamitovs.team/) (ru)
