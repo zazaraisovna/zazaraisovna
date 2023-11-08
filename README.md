@@ -9,6 +9,7 @@ I’m **currently working** on [CHIP: Rescuer of Kittens](https://store.steampow
 - Lecture about [**Physics in games**](https://youtu.be/voR7CY-YoSs) (ru)
 - Lecture about [**Game Mechanics**](https://youtu.be/EQKcC4enB7A) (ru)
 - Lecture about [**Graph database**](https://www.youtube.com/watch?v=pVIXAJE4v3g) (ru)
+- Motherhood and IT podcast host [**Мамство и IT**](https://momsandit.mave.digital/) (ru)
 - Gamedev podcast host [**Khamitovs Cast**](https://podcast.khamitovs.team/) (ru)
 - Guest on podcast [**KDI Cast**](https://youtu.be/hBHWjgHkn0w) (ru)
 
