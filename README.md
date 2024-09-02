@@ -1,7 +1,7 @@
 ## Hi there 👋
 I work at an indie-studio [Khamitovs Team](https://github.com/KhamitovsTeam). My focus area for the past few years has been game development with the FNA Framework, but I'm also skilled in Unity 3D with C#.
 
-I’m **currently working** on [CHIP: Rescuer of Kittens](https://store.steampowered.com/app/1029830/CHIP_Rescuer_of_Kittens/)
+I’m **currently working** on [CHIP: Rescuer of Kittens](https://store.steampowered.com/app/1029830/CHIP_Rescuer_of_Kittens/). And developing a game engine called KTEngine.
 
 **Portfolio:** https://zazaraisovna.ru/games
 
