@@ -1,17 +1,37 @@
 ## Hi there 👋
-I work at an indie-studio [Khamitovs Team](https://github.com/KhamitovsTeam). My focus area for the past few years has been game development with the FNA Framework, but I'm also skilled in Unity 3D with C#.
 
-I’m **currently working** on [CHIP: Rescuer of Kittens](https://store.steampowered.com/app/1029830/CHIP_Rescuer_of_Kittens/). And developing a game engine called KTEngine.
+I work at an indie-studio [Khamitovs Team](https://github.com/KhamitovsTeam). 
 
-**Portfolio:** https://zazaraisovna.ru/games
+I’ve been creating games for several years, mostly using **FNA Framework** and **Unity (C#)**. 
 
-**Talks:**
-- Lecture about [**Physics in games**](https://youtu.be/voR7CY-YoSs) (ru)
-- Lecture about [**Game Mechanics**](https://youtu.be/EQKcC4enB7A) (ru)
-- Lecture about [**Graph database**](https://www.youtube.com/watch?v=pVIXAJE4v3g) (ru)
-- Motherhood and IT podcast host [**Мамство и IT**](https://momsandit.mave.digital/) (ru)
-- Gamedev podcast host [**Khamitovs Cast**](https://podcast.khamitovs.team/) (ru)
-- Guest on podcast [**KDI Cast**](https://youtu.be/hBHWjgHkn0w) (ru)
+Currently working on [CHIP: Rescuer of Kittens](https://store.steampowered.com/app/1029830/CHIP_Rescuer_of_Kittens/) - a retro metroidvania about saving kittens 🐱
+
+Also building a custom engine — **KTEngine**.
+
+---
+
+## 💼 Portfolio
+
+Check out my games here: https://zazaraisovna.ru/games
+
+---
+
+## 🎙 Talks & Podcasts
+- 📚 *Lecture (RU):* [**Physics in games**](https://youtu.be/voR7CY-YoSs)
+- 📚 *Lecture (RU):* [**Game Mechanics**](https://youtu.be/EQKcC4enB7A)
+- 📚 *Lecture (RU):* [**Graph database**](https://www.youtube.com/watch?v=pVIXAJE4v3g)
+- 🎧 *Podcast Host:* [**Мамство и IT**](https://momsandit.mave.digital/) (ru)
+- 🎧 *Gamedev Podcast Host:* [**Khamitovs Cast**](https://podcast.khamitovs.team/) (ru)
+- 🎧 *Guest:* [**KDI Cast**](https://youtu.be/hBHWjgHkn0w) (ru)
+
+---
+
+## ✨ Fun fact
+
+I love narrative design, pixel art, and a bit of magic in games.  
+Outside of dev, you’ll find me playing drums 🥁 or cycling through forests 🚲
+
+---
 
 <!--
 **zazaraisovna/zazaraisovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
